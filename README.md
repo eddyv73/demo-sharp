@@ -1,5 +1,5 @@
 # demo-sharp
-es te es un repositorio dondnde tenemos codigo para una demostración de codigo en vivo , y estamos viendo si funciona las pruebas unitarias
+Este repositorio contiene código para una demostración de programación en vivo y se usa para comprobar las pruebas unitarias.
 Estructura para un proyecto C# con .NET y ASP.NET Core:
 
 ```text
