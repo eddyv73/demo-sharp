@@ -1,5 +1,5 @@
 # demo-sharp
-Este repositorio contiene código para una demostración de programación en vivo y se usa para comprobar las pruebas unitarias.
+Este repositorio contiene una aplicación de demostración para programación en vivo y permite comprobar las pruebas unitarias.
 Estructura para un proyecto C# con .NET y ASP.NET Core:
 
 ```text
@@ -31,6 +31,6 @@ dotnet test
 
 
 
-la estrcutura de as carpetas , esta basada en unas buenas practicas de la empresa.
+La estructura de carpetas está basada en buenas prácticas de la empresa.
 
-La licencia de este proyecto a APACHE 2.0
+Este proyecto está bajo la licencia Apache 2.0.
