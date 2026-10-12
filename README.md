@@ -1,5 +1,5 @@
 # demo-sharp
-
+es te es un repositorio dondnde tenemos codigo para una demostración de codigo en vivo , y estamos viendo si funciona las pruebas unitarias
 Estructura para un proyecto C# con .NET y ASP.NET Core:
 
 ```text
@@ -28,3 +28,9 @@ dotnet test
 - **OpenAPI**: `GET /openapi/v1.json` - Especificación OpenAPI de la API.
 - **Health Check**: `GET /health` - Retorna el estado de salud del servicio (`{"status": "Healthy"}`).
 - **Echo**: `GET /echo?message={texto}` o `GET /echo/{texto}` - Retorna el mensaje recibido (`{"message": "..."}`).
+
+
+
+la estrcutura de as carpetas , esta basada en unas buenas practicas de la empresa.
+
+La licencia de este proyecto a APACHE 2.0
